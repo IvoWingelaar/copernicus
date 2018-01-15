@@ -1,0 +1,7 @@
+[package]
+name = "copernicus"
+version = "0.1.0"
+authors = ["Ivo C.S. Wingelaar <ivo.wingelaar@gmail.com>"]
+license = "MIT"
+
+[dependencies]
